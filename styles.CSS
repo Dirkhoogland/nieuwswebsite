@@ -1,14 +1,21 @@
-body {background-color:white;}
+body {background-color:white;display:grid
 
-.container
+}
+
+.container {
+	
+}
 
 
 .grid{
-	display:grid;
+
 	grid-row-gap:10px;
 	grid-column-gap:5px;
 	grid-column:1/4;
 	grid-row:1/5;
+
+
+
 }
 
 .grid-item1 { 
